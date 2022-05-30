@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Farohiddin-dev
-- 👀 I’m interested in ... WebDeveloping
-- 🌱 I’m currently learning ... Python, JavaScipt
+- 👋 **Hi, I’m @Farohiddin-dev**
+- 👀 I’m interested in ... **AI, ML**
+- 🌱 I’m currently learning ... **Python, Django**
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
